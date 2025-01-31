@@ -10,7 +10,7 @@ AdviceApp is a simple mobile application for Android that provides users with in
 - A footer with the text "Created by Javier Garrido."
 
 ## Screenshots
- <img src="https://github.com/user-attachments/assets/116aad91-c2f0-4ab3-bc79-e6162e30b815" width="30%">  <img src="https://github.com/user-attachments/assets/6b39dd87-960c-4d82-ae5f-723cfef135d8" width="30%">  <img src="https://github.com/user-attachments/assets/cb97174b-7745-4bac-8f0b-eabc57278a9b" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/591857ec-453e-4fd0-aaf0-7d79153c273e" width="30%">  <img src="https://github.com/user-attachments/assets/0c61559f-99a8-4afd-8410-7f0613fbf047" width="30%">  <img src="https://github.com/user-attachments/assets/17f425df-27df-4cc4-b73b-c54488b04f2b" width="30%"> 
 ## Technologies Used
 
 - **Language**: Java
