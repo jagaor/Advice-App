@@ -1,5 +1,5 @@
-# ![Image](https://github.com/user-attachments/assets/7d624dcd-9b60-4312-ae95-7b4eaad2f6b2)
-
+## ![Image](https://github.com/user-attachments/assets/7d624dcd-9b60-4312-ae95-7b4eaad2f6b2) Advice App
+##Advice App
 AdviceApp is a simple mobile application for Android that provides users with inspirational advice. By pressing a button, the app fetches a random piece of advice from an API and displays it on the screen. It’s simple project to show my skills at using APIs request for my projects.
 
 ## Features
